@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "eX7zI8fhjtnupJ1eHXGOMk56Z81LSnUA3eyrd43TOdsLAglKVrI13yI1ErH0B0cgM28ha8G/BeqGkWXdvd2h5w==",
+  "dgSpecHash": "eI/W556miLCFcQaSW8iv49aIxIXveK1qtKXOZpizN2BfurbJzkjykh53qfaZ+tfvkDhe+YrUSFz8YrHDI80JXw==",
   "success": true,
-  "projectFilePath": "D:\\Coding\\C#\\randomNumbers\\randomNumbers.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Chris\\Documents\\GitHub\\Projects\\PasswordGenerator\\randomNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chris\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Chris\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Chris\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Chris\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
